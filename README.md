@@ -1,0 +1,2 @@
+# Eventease
+Event Management App
