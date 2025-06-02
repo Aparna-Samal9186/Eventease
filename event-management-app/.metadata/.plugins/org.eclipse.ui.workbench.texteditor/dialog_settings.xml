@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="hasShownOverlayPopupBefore" value="true"/>
+	<section name="java.lang.Class">
+		<item key="replaceBarOpen" value="false"/>
+		<list key="findhistory">
+			<item value="spring-boot-starter-jta"/>
+			<item value="spring-boot-starter-websocket"/>
+			<item value="&gt;mysql-connector-java"/>
+			<item value="spring-boot-starter-jdbc"/>
+			<item value="spring-boot-starter-data-jpa"/>
+			<item value="org.springframework.boot"/>
+			<item value="spring.jpa.hibernate.ddl-auto=update"/>
+		</list>
+	</section>
+</section>
